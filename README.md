@@ -1,6 +1,6 @@
 # TriviaGame
 
-I got stock on the on-click for this assignment, so I did another one with radio buttons.
+I got stuck on the on-click for this assignment, so I did another one with radio buttons.
 
 I was able to ge the radio buttons to display with the questions.  The great part about this was to have all the questions stored in one array with multiple objects having questions, ansewrs, and correct answer.  
 
